@@ -1,0 +1,38 @@
+[
+  {
+    "eventId": "E001",
+    "name": "Music Festival",
+    "location": "Central Park, New York",
+    "date": "2024-08-15",
+    "type": "Music",
+    "availableTickets": 100,
+    "ticketPrice": 50.0
+  },
+  {
+    "eventId": "E002",
+    "name": "Art Exhibition",
+    "location": "Gallery 123, Los Angeles",
+    "date": "2024-09-05",
+    "type": "Art",
+    "availableTickets": 50,
+    "ticketPrice": 30.0
+  },
+  {
+    "eventId": "E003",
+    "name": "Food Festival",
+    "location": "Beachfront, Miami",
+    "date": "2024-10-12",
+    "type": "Food",
+    "availableTickets": 200,
+    "ticketPrice": 40.0
+  },
+  {
+    "eventId": "E004",
+    "name": "Tech Conference",
+    "location": "Convention Center, San Francisco",
+    "date": "2024-11-20",
+    "type": "Technology",
+    "availableTickets": 150,
+    "ticketPrice": 75.0
+  }
+]

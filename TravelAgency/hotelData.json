@@ -1,0 +1,90 @@
+[
+  {
+    "hotelId": "H1",
+    "name": "Grand Plaza Hotel",
+    "location": "Aswan",
+    "description": "Luxury hotel with stunning views of the Nile.",
+    "rooms": [
+      {
+        "roomId": "R1",
+        "hotelId": "H1",
+        "type": "Deluxe",
+        "pricePerNight": 150.0,
+        "available": true
+      },
+      {
+        "roomId": "R2",
+        "hotelId": "H1",
+        "type": "Standard",
+        "pricePerNight": 100.0,
+        "available": true
+      }
+    ]
+  },
+  {
+    "hotelId": "H2",
+    "name": "Grand Plaza Hotel",
+    "location": "Ain-Sokhna",
+    "description": "A beautiful beachside resort perfect for relaxation.",
+    "rooms": [
+      {
+        "roomId": "R3",
+        "hotelId": "H2",
+        "type": "Deluxe",
+        "pricePerNight": 150.0,
+        "available": true
+      },
+      {
+        "roomId": "R4",
+        "hotelId": "H2",
+        "type": "Standard",
+        "pricePerNight": 100.0,
+        "available": true
+      }
+    ]
+  },
+  {
+    "hotelId": "H3",
+    "name": "Beachside Resort",
+    "location": "Ain-Sokhna",
+    "description": "An affordable resort offering amazing beach views.",
+    "rooms": [
+      {
+        "roomId": "R5",
+        "hotelId": "H3",
+        "type": "Suite",
+        "pricePerNight": 200.0,
+        "available": true
+      },
+      {
+        "roomId": "R6",
+        "hotelId": "H3",
+        "type": "Economy",
+        "pricePerNight": 80.0,
+        "available": true
+      }
+    ]
+  },
+  {
+    "hotelId": "H4",
+    "name": "Beachside Resort",
+    "location": "Sahel",
+    "description": "A tropical getaway with modern amenities.",
+    "rooms": [
+      {
+        "roomId": "R7",
+        "hotelId": "H4",
+        "type": "Suite",
+        "pricePerNight": 200.0,
+        "available": true
+      },
+      {
+        "roomId": "R8",
+        "hotelId": "H4",
+        "type": "Economy",
+        "pricePerNight": 80.0,
+        "available": true
+      }
+    ]
+  }
+]
